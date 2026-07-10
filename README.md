@@ -1,5 +1,7 @@
 # crtsh
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fdfdeda09bc94c86a682c0f1539e0845)](https://app.codacy.com/gh/sksmax/crtsh?utm_source=github.com&utm_medium=referral&utm_content=sksmax/crtsh&utm_campaign=Badge_Grade)
+
 A fast CLI tool for subdomain enumeration using [crt.sh](https://crt.sh) certificate transparency logs.
 
 ## Install
